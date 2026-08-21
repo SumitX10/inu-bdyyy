@@ -101,7 +101,7 @@ Ever since you came into my life, I’ve understood what true friendship really 
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            Your Man, Yagya
+                            Your Sumitt
                         </p>
                     </div>
                 </div>
