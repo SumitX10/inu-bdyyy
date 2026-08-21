@@ -187,7 +187,7 @@ const Home = () => {
                 {/* =========================== BoxMail Canvas =============================== */}
                 <BookCanvas active={Active} setActive={SetActive} />
 
-                {/* ========================== Small letter from rajib ========================= */}
+                {/* ========================== Small letter from sumit ========================= */}
                 <section className="smallLetter absolute md:-bottom-26 -bottom-40 md:left-[45%] left-[50%] -translate-x-1/2" style={{ "--t": "15.6s" }}>
                     <SmallLetter />
                 </section>
