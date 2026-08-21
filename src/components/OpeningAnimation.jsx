@@ -108,7 +108,7 @@ const OpeningAnimation = ({ animateOut }) => {
 
 
           <div className="MUNNA cakeText">
-            <h1 className="MUNNA cakeText-title">Happy Girlfriend's Day!</h1>
+            <h1 className="MUNNA cakeText-title">Happy BirthhhDay!</h1>
             <div className="MUNNA cakeText-name">Princess <div className="MUNNA cakeText-kitty-bow"></div></div>
           </div>
 
