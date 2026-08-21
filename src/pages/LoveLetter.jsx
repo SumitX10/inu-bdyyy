@@ -4,43 +4,43 @@ const LoveLetter = () => {
     const lettersData = [
         {
             id: 1,
-            name: "Yagya",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, Now stop crying my bhooki Take this chocolate 🍫.",
+            name: "Sumit",
+            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, my bhonduu Take this chocolate 🍫.",
         },
         {
             id: 2,
-            name: "Yagya",
+            name: "Sumit",
             msg: "One Kissi from you can change my whole day, my whole mood, my whole heartbeat 🫀.",
         },
         {
             id: 3,
-            name: "Yagya",
-            msg: "And Yes Ill still love you if you were a stone my bhooki.",
+            name: "Sumitt",
+            msg: "And Yes Ill still love you if you were Stoneee cuz u deserve love bhondu yourrr stronggg bachaa.",
         },
         {
             id: 4,
-            name: "Yagya",
-            msg: "Sorry If I ever hurted you but you mean the world to me 🫶.",
+            name: "Sumit",
+            msg: "Sorry If I ever hurted you but you imp to me 🫶.",
         },
         {
             id: 5,
-            name: "Yagya",
-            msg: "And You still didn;t tell me why you look so cute my baby girl 💕.",
+            name: "Sumit",
+            msg: "And You still didn;t tell me why you look so cute baby guurl ( mujhse jyada nai hmphh )💕.",
         },
         {
             id: 6,
-            name: "Yagya",
-            msg: "Ever since our we met, my heart knew where it wanted to stay— with you, in every soft moment, every smile, I just wanna be ur fav boy , ur man , ur bestfriend ❤️.",
+            name: "Sumit",
+            msg: "Ever since our we met, my heart knew where it wanted to stay— with you forever, in every soft moment, every smile, ur bestfriend ❤️.",
         },
         {
             id: 7,
-            name: "Yagya",
-            msg: " I Promise ill meet you soon my love , I owe you so manny kisses and cuddles 🫂 .",
+            name: "Sumit",
+            msg: " I Hopee ill Get too meet u soon irl  , I owe you so manny kisses and Huggiess ( u owe Me 60 lpa )  🫂 .",
         },
         {
             id: 8,
-            name: "Yagya",
-            msg: "You are the bestttest girlfreind in the whole universe.",
+            name: "Sumit",
+            msg: "You are the bestttest freind in the whole universe ( with the sole exception of me ofc ) mwahhhh bacha .",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
