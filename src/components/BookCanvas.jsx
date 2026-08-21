@@ -81,7 +81,7 @@ Ever since you came into my life, I’ve understood what true friendship really 
     </article>
 
     <article style={{ marginBottom: '10px' }}>
-       I just wanna sayyy, happiesttt birthdayyyyy my bestesttt mitrrr!!! Loveeee youuu soo muchieee <33 mwahhhh 😭❤️ Comeeee to me whenever youuu need, I’m alwaysss freeee for youuu. And lastlyyy, you’re the prettiesttt bachaaa 😭❤️ You’re strong, bacha, so don’t overthink, okayyy? Mwahhhh, dher saariii pyaarrr 🥹❤️ I’m alwaysss here for youuu, okayyy? Don’t everrr feel lonelyyy. Once againnn, happiesttt birthdayyyyy Sonaliiii <33 🫶🏻 Mwahhhh!!!
+       I just wanna sayyy, happiesttt birthdayyyyy my bestesttt mitrrr!!! Loveeee youuu soo muchieee  mwahhhh 😭❤️ Comeeee to me whenever youuu need, I’m alwaysss freeee for youuu. And lastlyyy, you’re the prettiesttt bachaaa 😭❤️ You’re strong, bacha, so don’t overthink, okayyy? Mwahhhh, dher saariii pyaarrr 🥹❤️ I’m alwaysss here for youuu, okayyy? Don’t everrr feel lonelyyy. Once againnn, happiesttt birthdayyyyy Sonaliiii  🫶🏻 Mwahhhh!!!
     </article>
 </div>
 
