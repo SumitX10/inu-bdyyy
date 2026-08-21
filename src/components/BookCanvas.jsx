@@ -29,10 +29,10 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Anvi ❤️ <span className="underline"></span>
+                            Dear Sonaliiii ❤️ <span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
-                            Happy Girlfriend's day!
+                            Happy Birthdayyyday!
                         </h3>
                         <p className="cover-subtitle">
                             A purr-fect message just for you... 💌
@@ -69,19 +69,19 @@ const BookCanvas = ({ active, setActive }) => {
                        {/* Swapping back to H2 to match the original CSS targeting */}
 <div className="card2-message-text italic">
     <article style={{ marginBottom: '8px' }}>
-        Happy Girlfriend's Day ❤️
+        Happy  BirthhhhDay Chinuuu ❤️
     </article>
 
     <article style={{ marginBottom: '10px' }}>
-        Ever since you came into my life, everything has felt different in the most beautiful way. Before I met you, I never knew someone could make ordinary days feel so special. Your smile became my favorite sight, your voice became my comfort, and your happiness slowly became my own. You didn't just become a part of my life—you became the best part of it.
+Ever since you came into my life, I’ve understood what true friendship really is. I’ve had many friends—some are still here, but things aren’t the same as when we first met. But you’re still the same as you were on the very first day we talked. I know we’ve only just met but I genuinely believe you’re not going to change Mwahhhhh 🥹❤️
     </article>
 
     <article style={{ marginBottom: '10px' }}>
-        Thank you for loving me, believing in me, and standing beside me through everything. No matter what life brings us, I promise to always be by your side, to support you, protect you, make you laugh when you're sad, and remind you every single day how deeply you are loved. My heart chose you, and it will continue choosing you today, tomorrow, and forever.
+        Thank you for loving me, believing in me, and standing beside me through everything. No matter what life brings for youu, I promise to always be by your side, to support you, protect you, make you laugh when you're sad, and remind you every single day how deeply you are loved. My heart chose you as a frnd , and it will continue choosing you today, tomorrow, and forever cuz my heart knows ur the one nd only true bhonduu.
     </article>
 
     <article style={{ marginBottom: '10px' }}>
-        Anvi, you are my safe place, my biggest blessing, and the most beautiful chapter of my life. I don't just want to celebrate today—I want to celebrate every moment I get to spend with you. Thank you for changing my world in ways words can never fully describe. I love you more than you'll ever know, and I can't wait to make a lifetime of memories with you. Happy Girlfriend's Day, my love. ❤️
+       I just wanna sayyy, happiesttt birthdayyyyy my bestesttt mitrrr!!! Loveeee youuu soo muchieee <33 mwahhhh 😭❤️ Comeeee to me whenever youuu need, I’m alwaysss freeee for youuu. And lastlyyy, you’re the prettiesttt bachaaa 😭❤️ You’re strong, bacha, so don’t overthink, okayyy? Mwahhhh, dher saariii pyaarrr 🥹❤️ I’m alwaysss here for youuu, okayyy? Don’t everrr feel lonelyyy. Once againnn, happiesttt birthdayyyyy Sonaliiii <33 🫶🏻 Mwahhhh!!!
     </article>
 </div>
 
