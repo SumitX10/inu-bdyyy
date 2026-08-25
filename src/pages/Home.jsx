@@ -73,12 +73,20 @@ const Home = () => {
         <span style={{ "--t": "5.4s" }}>r</span>
         <span style={{ "--t": "5.6s" }}>t</span>
         <span style={{ "--t": "5.8s" }}>h</span>
+        <span style={{ "--t": "5.6s" }}> </span>
+        <span style={{ "--t": "5.8s" }}>D</span>
+        <span style={{ "--t": "5.6s" }}>a</span>
+        <span style={{ "--t": "5.8s" }}>y</span>
     </h1>
 
  <h1 className="birthday">
-        <span style={{ "--t": "7.4s" }}>D</span>
-        <span style={{ "--t": "7.6s" }}>a</span>
-        <span style={{ "--t": "7.8s" }}>y</span>
+        <span style={{ "--t": "7.4s" }}>B</span>
+        <span style={{ "--t": "7.6s" }}>h</span>
+        <span style={{ "--t": "7.8s" }}>o</span>
+        <span style={{ "--t": "5.6s" }}>n</span>
+        <span style={{ "--t": "5.8s" }}>d</span>
+        <span style={{ "--t": "5.6s" }}>d</span>
+        <span style={{ "--t": "5.8s" }}>u</span>
     </h1>
 
                             <div className="hat">
